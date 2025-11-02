@@ -1,0 +1,9 @@
+# Bỏ qua thư mục môi trường
+venv/
+
+# Bỏ qua tệp cấu hình IDE
+*.pyc
+__pycache__/
+
+# Bỏ qua tệp nhạy cảm
+.env

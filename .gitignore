@@ -7,3 +7,5 @@ __pycache__/
 
 # Bỏ qua tệp nhạy cảm
 .env
+.dev_env
+.sqlite3
